@@ -1,4 +1,4 @@
-# Riffy - Proposal
+# Appapolooza - Proposal
 
 ### Introduction
 
