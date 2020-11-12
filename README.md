@@ -38,24 +38,24 @@ Please and thank you.
 
 * Number Guessing Game
 
-This app takes in numbered guesses until the user gets it right. It calculates a random integer (check out `Math.random()`!) from 1 to the number of your choosing  and then checks it against the given guess, letting the user know whether they guessed correctly! Then it keeps letting them guess until they get it right (or quit).
+ This app takes in numbered guesses until the user gets it right. It calculates a random integer (check out `Math.random()`!) from 1 to the number of your choosing  and then checks it against the given guess, letting the user know whether they guessed correctly! Then it keeps letting them guess until they get it right (or quit).
 
 * Word Guessing Game
 
-This app takes in strings and tries them against hard-coded answers. It might, for example, see if you can guess the birth-year of a particular celebrity by typing in their name and a year. Or which dinosaurs lived in which periods. Or anything like that that you know (or could look up) the answer to. It should have followup questions, as well. For example, maybe tell them whether they guessed too high or low on Zendaya's birthday. Help them narrow it down!
+ This app takes in strings and tries them against hard-coded answers. It might, for example, see if you can guess the birth-year of a particular celebrity by typing in their name and a year. Or which dinosaurs lived in which periods. Or anything like that that you know (or could look up) the answer to. It should have followup questions, as well. For example, maybe tell them whether they guessed too high or low on Zendaya's birthday. Help them narrow it down!
 
 
 * Currency Converter
 
-Let the user choose what currency they want to convert to and from, and then let them convert after that. $400 USD in Kenyan Shillings? Great, now what's that result in yen?
+ Let the user choose what currency they want to convert to and from, and then let them convert after that. $400 USD in Kenyan Shillings? Great, now what's that result in yen?
 
 * Bill Split Calculator
 
-This app asks for an overall bill, a tip percentage, and how many ways to split it, in three separate questions, and then calculates how much each party owes. For a really good version of this, you'd want to follow up with a chance to edit things if they get it wrong, or give them a chance to tip more if they don't tip enough.
+ This app asks for an overall bill, a tip percentage, and how many ways to split it, in three separate questions, and then calculates how much each party owes. For a really good version of this, you'd want to follow up with a chance to edit things if they get it wrong, or give them a chance to tip more if they don't tip enough.
 
 * Choose Your Own Adventure.
 
-[Go nuts.](https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure)
+ [Go nuts.](https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure)
 
 
 ### Other Ideas
